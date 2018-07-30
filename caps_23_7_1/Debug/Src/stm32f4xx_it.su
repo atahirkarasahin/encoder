@@ -1,0 +1,14 @@
+stm32f4xx_it.c:55:6:NMI_Handler	0	static
+stm32f4xx_it.c:68:6:HardFault_Handler	0	static
+stm32f4xx_it.c:86:6:MemManage_Handler	0	static
+stm32f4xx_it.c:104:6:BusFault_Handler	0	static
+stm32f4xx_it.c:122:6:UsageFault_Handler	0	static
+stm32f4xx_it.c:140:6:SVC_Handler	0	static
+stm32f4xx_it.c:153:6:DebugMon_Handler	0	static
+stm32f4xx_it.c:166:6:PendSV_Handler	0	static
+stm32f4xx_it.c:179:6:SysTick_Handler	8	static
+stm32f4xx_it.c:201:6:EXTI2_IRQHandler	8	static
+stm32f4xx_it.c:225:6:EXTI4_IRQHandler	8	static
+stm32f4xx_it.c:250:6:ADC_IRQHandler	8	static
+stm32f4xx_it.c:279:6:TIM8_TRG_COM_TIM14_IRQHandler	0	static
+stm32f4xx_it.c:265:6:TIM8_UP_TIM13_IRQHandler	0	static
